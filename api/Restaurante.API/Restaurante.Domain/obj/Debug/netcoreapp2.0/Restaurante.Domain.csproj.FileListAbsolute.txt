@@ -1,0 +1,9 @@
+C:\Cedro\api\Restaurante.API\Restaurante.Domain\bin\Debug\netcoreapp2.0\Restaurante.Domain.deps.json
+C:\Cedro\api\Restaurante.API\Restaurante.Domain\bin\Debug\netcoreapp2.0\Restaurante.Domain.dll
+C:\Cedro\api\Restaurante.API\Restaurante.Domain\bin\Debug\netcoreapp2.0\Restaurante.Domain.pdb
+C:\Cedro\api\Restaurante.API\Restaurante.Domain\obj\Debug\netcoreapp2.0\Restaurante.Domain.csproj.CoreCompileInputs.cache
+C:\Cedro\api\Restaurante.API\Restaurante.Domain\obj\Debug\netcoreapp2.0\Restaurante.Domain.AssemblyInfoInputs.cache
+C:\Cedro\api\Restaurante.API\Restaurante.Domain\obj\Debug\netcoreapp2.0\Restaurante.Domain.AssemblyInfo.cs
+C:\Cedro\api\Restaurante.API\Restaurante.Domain\obj\Debug\netcoreapp2.0\Restaurante.Domain.dll
+C:\Cedro\api\Restaurante.API\Restaurante.Domain\obj\Debug\netcoreapp2.0\Restaurante.Domain.pdb
+C:\Cedro\api\Restaurante.API\Restaurante.Domain\obj\Debug\netcoreapp2.0\Restaurante.Domain.csprojAssemblyReference.cache

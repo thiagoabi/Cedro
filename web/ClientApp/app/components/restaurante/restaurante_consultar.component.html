@@ -1,0 +1,40 @@
+<h1>Restaurantes</h1>
+
+<h4>Cadastro de Restaurantes - Consulta</h4>
+
+<div class="row-fluid">
+    <div class="panel panel-primary">
+        <div class="panel-heading">Filtros</div>
+        <div class="panel-body">
+            <div class="form-group">
+                <label for="plainText">Nome</label>
+                <input type="text" class="form-control input-sm" id="plainText" [(ngModel)]="plainText" (keyup.enter)="filter()" />
+            </div>
+            <div class="row-fluid">
+                <button type="button" class="btn btn-success" (click)="filter()">Pesquisar</button>   <a class="btn btn-warning" [routerLink]="['/restaurante', 0]">Cadastrar Novo</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p *ngIf="!restaurantes"><em>Loading...</em></p>
+<p *ngIf="filtered"><strong>Filtrado por: </strong> {{ plainText }} <br/> <a (click)="plainText='';filter()">Limpar Filtro</a></p>
+<div *ngIf="message.hasMessage()" class="alert alert-success alert-dismissible {{ message.className }}">
+    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+    <strong>{{ message.title }}</strong> {{ message.text }}
+</div>
+<table class='table' *ngIf="restaurantes">
+    <thead>
+        <tr>
+            <th class="text-center">#</th>
+            <th>Restaurante</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngIf="!restaurantes.length" class="text-center"><td colspan="4">Nenhum registro encontrado <span *ngIf="filtered"> para o texto <span class="text-danger"><strong>{{ plainText }}</strong></span></span></td></tr>
+        <tr *ngFor="let r of restaurantes; index as i">
+            <td class="text-center"><a [routerLink]="['/restaurante', r.id]" title="Editar"><i class="glyphicon glyphicon-edit"></i></a>    <a (click)="delete(r.id, i, r.nome)" title="Excluir" ><i class="glyphicon glyphicon-trash"></i></a></td>
+            <td>{{ r.nome }}</td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,9 @@
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.0\Restaurante.Infrastructure.CrossCutting.deps.json
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.0\Restaurante.Infrastructure.CrossCutting.dll
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.0\Restaurante.Infrastructure.CrossCutting.pdb
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.CrossCutting.csprojAssemblyReference.cache
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.CrossCutting.dll
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.CrossCutting.pdb

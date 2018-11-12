@@ -1,0 +1,18 @@
+<h1>Pratos</h1>
+
+<h4>Cadastro de {{title}} - Consulta</h4>
+
+<div class="row-fluid">
+    <div class="panel panel-primary">
+        <div class="panel-heading">Filtros</div>
+        <div class="panel-body">
+            <div class="form-group">
+                <label for="plainText">Nome</label>
+                <input type="text" class="form-control input-sm" id="plainText" [(ngModel)]="plainText" (keyup.enter)="filter()" />
+            </div>
+            <div class="row-fluid">
+                <button type="button" class="btn btn-success" (click)="filter()">Pesquisar</button>   <a class="btn btn-warning" [routerLink]="[{{ model.config.crud.createRoute.path }}, 0]">Cadastrar Novo</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,16 @@
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\bin\Debug\netcoreapp2.0\Restaurante.Infrastructure.Data.deps.json
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\bin\Debug\netcoreapp2.0\Restaurante.Infrastructure.Data.dll
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\bin\Debug\netcoreapp2.0\Restaurante.Infrastructure.Data.pdb
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\bin\Debug\netcoreapp2.0\Restaurante.Domain.dll
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\bin\Debug\netcoreapp2.0\Restaurante.Domain.pdb
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.Data.AssemblyInfo.cs
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.Data.csproj.CopyComplete
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.Data.dll
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\obj\Debug\netcoreapp2.0\Restaurante.Infrastructure.Data.pdb
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\bin\Debug\netcoreapp2.0\Restaurante.Infrastructure.Context.dll
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\bin\Debug\netcoreapp2.0\Restaurante.Infrastructure.Context.pdb
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Cedro\api\Restaurante.API\Restaurante.Infrastructure.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml

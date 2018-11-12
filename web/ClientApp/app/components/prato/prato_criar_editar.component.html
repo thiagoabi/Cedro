@@ -1,0 +1,43 @@
+<h1>Pratos</h1>
+
+<h4>Cadastro de Pratos - {{ this.prato.id == 0 ? "Novo" : "Alterar"  }} registro</h4>
+<div *ngIf="message.hasMessage()" class="alert alert-success alert-dismissible {{ message.className }}">
+    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+    <strong>{{ message.title }}</strong> {{ message.text }}
+</div>
+<div class="row-fluid text-right"><a class="btn btn-info" [routerLink]="['/prato', 0]" (click)="clear()">Cadastrar Novo</a></div>
+<p></p>
+<div class="row-fluid">
+    <div class="panel panel-primary">
+        <div class="panel-heading">Filtros</div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="form-group col-md-4">
+                    <label for="nome">Restaurante</label>
+                    <select class="form-control" [(ngModel)]="this.prato.estabelecimentoId">
+                        <option *ngFor="let r of restaurantes" value="{{r.id}}">
+                            {{r.nome}}
+                        </option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-6">
+                    <label for="nome">Nome</label>
+                    <input type="text" class="form-control input-sm required" id="nome" required [(ngModel)]="prato.nome" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-4">
+                    <label for="valor">Valor</label>
+                    <input type="number" class="form-control input-sm" id="valor" required [(ngModel)]="prato.valor" ng-pattern="/^[0-9]+(\.[0-9]{1,2})?$/" step="0.10" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="row-fluid col-md-3">
+                    <button type="button" class="btn btn-warning" [routerLink]="['/pratos']">Voltar</button>   <button class="btn btn-success" (click)="save()">Salvar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

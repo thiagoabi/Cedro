@@ -1,0 +1,8 @@
+C:\Cedro\api\Restaurante.API\Cedro.Lib.Security\bin\Debug\netcoreapp2.0\Cedro.Lib.Security.deps.json
+C:\Cedro\api\Restaurante.API\Cedro.Lib.Security\bin\Debug\netcoreapp2.0\Cedro.Lib.Security.dll
+C:\Cedro\api\Restaurante.API\Cedro.Lib.Security\bin\Debug\netcoreapp2.0\Cedro.Lib.Security.pdb
+C:\Cedro\api\Restaurante.API\Cedro.Lib.Security\obj\Debug\netcoreapp2.0\Cedro.Lib.Security.csproj.CoreCompileInputs.cache
+C:\Cedro\api\Restaurante.API\Cedro.Lib.Security\obj\Debug\netcoreapp2.0\Cedro.Lib.Security.AssemblyInfoInputs.cache
+C:\Cedro\api\Restaurante.API\Cedro.Lib.Security\obj\Debug\netcoreapp2.0\Cedro.Lib.Security.AssemblyInfo.cs
+C:\Cedro\api\Restaurante.API\Cedro.Lib.Security\obj\Debug\netcoreapp2.0\Cedro.Lib.Security.dll
+C:\Cedro\api\Restaurante.API\Cedro.Lib.Security\obj\Debug\netcoreapp2.0\Cedro.Lib.Security.pdb
